@@ -1,6 +1,6 @@
 DESCRIPTION = "Linux Kernel for Aspeed"
 SECTION = "kernel"
-LICENSE = "GPLv2"
+LICENSE = "GPL-2.0-only"
 
 COMPATIBLE_MACHINE = "aspeed"
 
